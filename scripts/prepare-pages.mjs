@@ -15,3 +15,4 @@ await build({
   external: ["node:*"],
   logLevel: "silent",
 });
+await rm(resolve(".wrangler/deploy/config.json"), { force: true });
