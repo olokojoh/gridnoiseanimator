@@ -37,7 +37,8 @@ export default function PrivacyPage() {
           interface language you picked, under the key{" "}
           <code>grid-noise-language</code>. You can remove it at any time by
           clearing site data in your browser. There are no accounts, no sign-up
-          forms, and no analytics scripts on this site.
+          forms. Google Analytics measures visits and interactions and may use
+          analytics cookies or similar technologies.
         </p>
 
         <h2>Server logs</h2>
